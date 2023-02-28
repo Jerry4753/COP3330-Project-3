@@ -1,0 +1,16 @@
+			Report created on 02/28/2023
+			****************************
+
+Faculty Members
+---------------
+
+Staff Members
+-------------
+
+Students
+--------
+	1. Anh Vuong
+	ID: an1234
+	GPA: 3.5
+	Credit hours: 12
+
